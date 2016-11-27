@@ -1,0 +1,27 @@
+'fileTypes': [
+    'ftl'
+]
+'name': 'L20n'
+'patterns': [
+    {
+        'include': '#entry'
+    }
+]
+'repository':
+    'comment':
+        'patterns': [
+            {
+                'begin': '#'
+                'captures':
+                    '1':
+                        'name': 'punctuation.definitions.comment.ftl'
+                'end': '$\\n?'
+                'name': 'comment.line.hash.ftl'
+            }
+        ]
+'entry':
+    'patterns': [
+        {
+            'include': '#comment'
+        }
+    ]
