@@ -1,6 +1,6 @@
-# L20n language support in Atom
+# L20n language support in Atom [![Travis](https://img.shields.io/travis/polylingo/l20n.atom/master.svg)](https://travis-ci.org/polylingo/l20n.atom)
 
-[![Build Status](https://travis-ci.org/polylingo/l20n.atom.svg?branch=master)](https://travis-ci.org/polylingo/l20n.atom)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/polylingo/l20n.atom/blob/master/LICENSE)
 
 Adds syntax highlighting of L20n (FTL) files in Atom.
 
