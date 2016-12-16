@@ -3,7 +3,7 @@ describe "L20n FTL grammar", ->
 
     beforeEach ->
         waitsForPromise ->
-            atom.packages.activatePackage("l20n.atom")
+            atom.packages.activatePackage("language-l20n")
 
         runs ->
             grammar = atom.grammars.grammarForScopeName("source.ftl")
