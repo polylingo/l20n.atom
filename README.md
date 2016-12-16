@@ -1,4 +1,4 @@
-# L20n language support in Atom [![Travis](https://img.shields.io/travis/polylingo/l20n.atom/master.svg)](https://travis-ci.org/polylingo/l20n.atom)
+# L20n language support in Atom [![Travis](https://img.shields.io/travis/polylingo/l20n.atom/master.svg)](https://travis-ci.org/polylingo/l20n.atom) [![Build status](https://ci.appveyor.com/api/projects/status/anfh94owqwwj6f6p/branch/master?svg=true)](https://ci.appveyor.com/project/GlenDC/l20n-atom/branch/master) [![Dependency Status](https://david-dm.org/polylingo/l20n.atom.svg)](https://david-dm.org/polylingo/l20n.atom)
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/polylingo/l20n.atom/blob/master/LICENSE)
 
